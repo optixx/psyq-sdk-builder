@@ -2,3 +2,5 @@ dl/
 extracted/
 output/
 tarballs/
+docker/psyq-46.zip
+docker/hello.c
